@@ -1,14 +1,9 @@
-# Nigerian-Yellow-Fever-Data-Analysis
-To understand the knowledge and practices in Rivers, Nigeria on the prevention and control the spread of yellow fever virus.
-Exploratory Data Analysis and Logistic regression were performed
-•	To determine areas to channel resources such as monetary budget on sensitization of the community on yellow fever
-•	To understand the most affected communities with the outbreaks and able to provide adequate solutions
-•	To understand the demographic and socio-economic variables contributing to the outbreaks
-•	To determine the demographic variables and socio-economic variables (such as level of education and economic status) that contribute to the exposures of the community members to the virus, and their knowledge of the virus
+<p><b>Data Scientist Volunteer, June 2021</b></p>
 
-Due to small sample size, asymptotic analysis was performed using Likelihood ratio test to determine the effect size.
+<p><b>Nigerian Institute of Medical Research</b></p>
 
-Data Collection Technique
-Data was collected using sampling surveying to obtain information from respondents on 
-the knowledge of yellow fever (causes and symptoms), treatment practices of the virus, 
-perceptions and utilization of the preventive practices, and the kind of treatments they deem fit.
+<p><ul><li>Performed statistical analysis to help policymakers make data-driven decisions that would impact the health of the citizenry</li>
+  <li>Explored data to determine how demographic and socio-economic variables contribute to the ways residents of the affected communities relate to yellow fever </li>
+ <li>Identified that variables such as level of education, housing options, family size, and job options largely contributed to the community members’ exposure to the virus.</li> 
+<li>Performed asymptotic analysis using Likelihood ratio test to determine the effect size due to small sample</li>
+<li>Provided recommendations that led to a change in government policies around treatment choices, sensitizations, and prevention methods.</li></p>
